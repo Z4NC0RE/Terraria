@@ -4,10 +4,6 @@
     border: 0;
 }
 
-main {
-
-}
-
 nav {
     padding: 5px 0;
 	width: 100%;
@@ -37,6 +33,25 @@ nav ul li a {
 nav ul li:hover {
     background-color: #a8a7a3;
     text-decoration: underline;
+}
+
+nav ul li a:hover {
+    color: #a8a7a3;
+}
+
+main {
+
+}
+
+#skyColor {
+    background-color: #5971f7;
+}
+
+#groundLevel {
+    width: 80%;
+    background-color: #ab7153;
+    color: #18d855;
+    border-color: #a8a7a3;
 }
 
 table {
