@@ -61,7 +61,9 @@ main {
 	min-height: 500px;
 	font-size: 1.8em;
     background-color: #ab7153;
-    color: #a8a7a3;
+    color: #18d855;
+    border-collapse: separate;
+    border-spacing: 1em;
     border-color: #a8a7a3;
 }
 
