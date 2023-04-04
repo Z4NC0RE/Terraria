@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+main {
+
+}
+
+nav {
+    padding: 5px 0;
+	width: 100%;
+	background-color: #18d855;
+	min-height: 50px;
+}
+
+nav ul {
+    display: block;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    width: 15%;
+    background-color: #18d855;
+    margin-top: .8%;
+}
+
+nav ul li a {
+    color: #ab7153;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+
+nav ul li:hover {
+    background-color: #a8a7a3;
+    text-decoration: underline;
+}
+
+table {
+
+}
+
+footer {
+
+}
