@@ -4,6 +4,10 @@
     border: 0;
 }
 
+header img {
+    width: 100%;
+}
+
 nav {
     padding: 5px 0;
 	width: 100%;
