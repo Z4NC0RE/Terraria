@@ -104,6 +104,11 @@ main {
     color: black;
 }
 
+.enemiesImg {
+    float: right;
+    padding: 15px;
+}
+
 #redcaveBackground {
     background-color: #561108;
 }
@@ -116,6 +121,11 @@ main {
 	font-size: 1.8em;
     background-color: aliceblue;
     color: black;
+}
+
+.newsletterIMG {
+    padding: 15px;
+    float: right;
 }
 
 table {
