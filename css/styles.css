@@ -67,6 +67,15 @@ main {
     border-color: #a8a7a3;
 }
 
+#blueCavebackground {
+    backgound-color: #4c7576;
+}
+
+#blueCAVE {
+    background-color: black;
+    color: #1221af;
+}
+
 table {
 
 }
