@@ -64,6 +64,10 @@ main {
     color: black;
 }
 
+.homeIMG {
+    float: right;
+}
+
 #blueCavebackground {
     background-color: #1221af;
 }
