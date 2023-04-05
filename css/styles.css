@@ -72,6 +72,11 @@ main {
 }
 
 #blueCAVE {
+    padding: 3% 0;
+	margin: 0 auto;
+	width: 80%;
+	min-height: 500px;
+	font-size: 1.8em;
     background-color: black;
     color: #1221af;
 }
