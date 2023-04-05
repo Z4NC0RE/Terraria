@@ -68,7 +68,7 @@ main {
 }
 
 #blueCavebackground {
-    backgound-color: #4c7576;
+    background-color: #4c7576;
 }
 
 #blueCAVE {
@@ -81,5 +81,5 @@ table {
 }
 
 footer {
-
+    text-align: center;
 }
