@@ -83,6 +83,11 @@ main {
     color: black;
 }
 
+.equipmentsIMG {
+    float: right;
+    padding: 15px;
+}
+
 #purplecaveBackground {
     background-color: #795399;
 }
