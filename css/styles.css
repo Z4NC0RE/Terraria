@@ -68,7 +68,7 @@ main {
 }
 
 #blueCavebackground {
-    background-color: #4c7576;
+    background-color: black;
 }
 
 #blueCAVE {
@@ -77,7 +77,7 @@ main {
 	width: 80%;
 	min-height: 500px;
 	font-size: 1.8em;
-    background-color: black;
+    background-color: #4c7576;
     color: #1221af;
 }
 
