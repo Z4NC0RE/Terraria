@@ -193,6 +193,13 @@ input {
 	background-color: #357afe;
 }
 
+.sourcesIMG {
+    float: right;
+    padding: 15px;
+    height: 400px;
+    width: 500px;
+}
+
 footer {
     text-align: center;
     background-color: aliceblue;
