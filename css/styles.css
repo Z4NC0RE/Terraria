@@ -132,6 +132,18 @@ main {
     width: 500px;
 }
 
+#newsletterbackground {
+    background-color: #357afe;
+}
+
+#newsletter {
+    padding: 3% 0;
+	margin: 0 auto;
+	width: 80%;
+	min-height: 500px;
+	font-size: 1.8em;
+}
+
 .newsletterIMG {
     padding: 15px;
     float: right;
